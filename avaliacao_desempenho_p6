@@ -8,3 +8,10 @@ s(2) = 2
 s(4) = 3.74
 
 eficiencia = 93.5%
+
+Speedup paralelo 7
+t(1) = 2.2234
+t(4) = 0.6070
+s(4) = 3.6678
+
+eficiencia = 91.6%
