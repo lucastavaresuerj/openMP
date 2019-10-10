@@ -1,0 +1,10 @@
+Speedup paralelo 6
+
+t(1) = 2.02
+t(2) = 1.01
+t(4) = 0.54
+
+s(2) = 2
+s(4) = 3.74
+
+eficiencia = 93.5%
