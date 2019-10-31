@@ -1,0 +1,21 @@
+N=200000
+schedule(static)
+T(1) = 63.10
+T(2) = 47.31
+T(4) = 28.22
+S(4) = 2.23
+
+schedule(static,1)
+T(1) = 63.14
+T(4) = 16.81
+S(4) = 3.75
+
+schedule(guided)
+T(1) = 67.80
+T(4) = 18.33
+S(4) = 3.69
+
+schedule(dynamic)
+T(1) = 69,12
+T(4) = 18.40
+S(4) = 3.75
